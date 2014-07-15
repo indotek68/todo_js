@@ -1,0 +1,30 @@
+
+
+body {
+	font-family: helvetica, sans-serif;
+}
+
+h2	{
+	width: 18%;
+	font-family: 'Pacifico', cursive;
+	font-weight: 400; 
+	border-bottom: solid;
+	border-width: 2px;
+}
+
+}
+
+li{
+	font-weight: bold;
+}
+
+span{
+	font-weight: normal;
+}
+
+li button{
+	margin: 0 1em;
+	line-height: 100%;
+
+}
+
